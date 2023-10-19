@@ -15,5 +15,13 @@ App quản lý phòng khám là một ứng dụng phần mềm được thiết
 
 ![hình ảnh trang chủ](https://i.imgur.com/zMDmUzB.jpg)
 # Thành viên
-![abc](https://i.imgur.com/nweJtDO.jpg)
+- 21DH113738 Lê Trần Phúc Khang
+- 21DH111745 Võ Thành Thái
+- 21DH112301 Trương Đặng Anh Tuấn
+- 21DH110465 Ngô Hồng Đức
+- Văng 1 thành viên
+# Công nghệ sử dụng 
+https://developer.android.com/studio
+# Ngày bắt đầu 
+09/09/2023
 
