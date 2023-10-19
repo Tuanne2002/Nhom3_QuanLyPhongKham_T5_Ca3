@@ -13,7 +13,7 @@ App quản lý phòng khám là một ứng dụng phần mềm được thiết
 - Tư vấn.
 - Xem các kiến thức.
 
-![hình ảnh trang chủ] (https://i.imgur.com/zMDmUzB.jpg)
+![hình ảnh trang chủ](https://i.imgur.com/zMDmUzB.jpg)
 # Thành viên
 ![abc](https://i.imgur.com/nweJtDO.jpg)
 
