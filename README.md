@@ -21,8 +21,7 @@ App quản lý phòng khám là một ứng dụng phần mềm được thiết
 - 21DH110465 Ngô Hồng Đức
 - Văng 1 thành viên
 # Công nghệ sử dụng 
-# Hướng phát triển và những nội dung làm được
-+ Hướng phát triển
+# Hướng phát triển 
 * Mục tiêu: Quản lý lịch hẹn, hồ sơ bệnh nhân, quản lý kho, thanh toán, báo cáo, v.v.
 * Giao diện người dùng: Thiết kế giao diện người dùng thân thiện, dễ sử dụng và thích hợp cho người dùng cuối, bao gồm cả bác sĩ, y tá, và nhân viên quản lý.
 * Quản lý hồ sơ bệnh nhân:
@@ -33,7 +32,7 @@ App quản lý phòng khám là một ứng dụng phần mềm được thiết
 - Hỗ trợ xác nhận lịch hẹn và thông báo nhắc nhở.
 * Phát triển ứng dụng di động:
 - Xem xét việc phát triển ứng dụng di động để cung cấp khả năng quản lý phòng khám khi không có kết nối internet.
-+ Nội dung làm được :
+# Nội dung làm được :
 * Quản lý lịch hẹn
 * Đặt lịch khám
 * Tư vấn
