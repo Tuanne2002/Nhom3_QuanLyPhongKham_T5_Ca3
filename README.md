@@ -22,7 +22,7 @@ https://developer.android.com/studio
 - Hỗ trợ xác nhận lịch hẹn và thông báo nhắc nhở.
 * Phát triển ứng dụng di động:
 - Xem xét việc phát triển ứng dụng di động để cung cấp khả năng quản lý phòng khám khi không có kết nối internet.
-# Nội dung làm được :
+# Nội dung làm được
 - Đăng ký, đăng nhập.
 - Phân quyền: admin, bác sĩ, bệnh nhân
 - Đặt lịch khám.
