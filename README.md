@@ -24,7 +24,7 @@ https://github.com/
 - Phân quyền: admin, bác sĩ, bệnh nhân
 - Đặt lịch khám.
 - Tính BMI.
-- Xem danh sách dịch vụ.
+- Hồ sơ bệnh án.
 - Cập nhật thông tin cá nhân.
 - Thông tin phòng khám.
 - Tư vấn.
