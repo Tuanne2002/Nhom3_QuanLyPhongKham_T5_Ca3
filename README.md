@@ -9,7 +9,7 @@ App quản lý phòng khám là một ứng dụng phần mềm được thiết
 - 21DH112301 Trương Đặng Anh Tuấn(Dev)
 - 21DH110465 Ngô Hồng Đức
 - 21DH110870 Nguyễn Ngọc Khoa 
-# Công nghệ sử dụng 
+# Công nghệ sử dụng 📱
 https://developer.android.com/studio
 ![](https://img.upanh.tv/2023/11/02/anh-34255325d75821498.png)
 https://github.com/
