@@ -1,5 +1,5 @@
 # Nhom3_QuanLyPhongKham_T5_Ca3
-# Giới thiệu
+# 🔉 Giới thiệu 🔉
 App quản lý phòng khám là một ứng dụng phần mềm được thiết kế để giúp các phòng khám, bệnh viện quản lý các hoạt động khám chữa bệnh một cách hiệu quả và chuyên nghiệp. Ứng dụng này có thể được cài đặt thiết bị di động, giúp các nhân viên phòng khám có thể dễ dàng truy cập và sử dụng mọi lúc, mọi nơi. Ứng dụng cũng cho phép người dùng đặt lịch khám của mình, tính BMi của bản thân,.... Từ đó,có thể giúp cho người dùng tiết kiệm thời gian, theo dõi chỉ số sức khỏe, tiết kiệm công sức và đảm bảo được chất lượng dịch vụ y tế.Ứng dụng được thiết kế trên nền tảng Android và có thể chạy tốt trên các phiên bản android từ 6.0 trở lên.
 
 ![hình ảnh trang chủ](https://i.imgur.com/zMDmUzB.jpg)                               ![Hình ảnh trang thông tin phòng khám](https://img.upanh.tv/2023/11/02/anh-1.jpg)
