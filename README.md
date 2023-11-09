@@ -6,7 +6,7 @@ App quản lý phòng khám là một ứng dụng phần mềm được thiết
 # Thành viên
 - 21DH113738 Lê Trần Phúc Khang (Scrum master )
 - 21DH111745 Võ Thành Thái
-- 21DH112301 Trương Đặng Anh Tuấn
+- 21DH112301 Trương Đặng Anh Tuấn(Dev)
 - 21DH110465 Ngô Hồng Đức
 - 21DH110870 Nguyễn Ngọc Khoa 
 # Công nghệ sử dụng 
